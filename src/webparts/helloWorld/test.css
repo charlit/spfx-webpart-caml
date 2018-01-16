@@ -1,0 +1,49 @@
+#carreVert {
+    height: 20px;
+    width: 20px;
+    background: rgb(0, 176, 80);
+    -ms-transform: rotate(45deg); /* Internet Explorer */
+    -moz-transform: rotate(45deg); /* Firefox */
+    -webkit-transform: rotate(45deg); /* Safari et Chrome */
+    -o-transform: rotate(45deg); /* Opera */
+  
+  }
+  #carreRouge {
+    height: 20px;
+    width: 20px;
+    background: red;
+    -ms-transform: rotate(45deg); /* Internet Explorer */
+    -moz-transform: rotate(45deg); /* Firefox */
+    -webkit-transform: rotate(45deg); /* Safari et Chrome */
+    -o-transform: rotate(45deg); /* Opera */
+  
+  }
+  #carreOrange {
+    height: 20px;
+    width: 20px;
+    background: rgb(255, 192, 0);
+    -ms-transform: rotate(45deg); /* Internet Explorer */
+    -moz-transform: rotate(45deg); /* Firefox */
+    -webkit-transform: rotate(45deg); /* Safari et Chrome */
+    -o-transform: rotate(45deg); /* Opera */
+  
+  }
+  #Nameofthesponsor2{
+    background-color: rgb(255, 255, 255);
+  }
+  #NameofthePMO2{
+    background-color: rgb(255, 255, 255);
+  }
+  #Nameoftheprojetcchief2{
+    background-color: rgb(255, 255, 255);
+  }
+  #Typeofproject2{
+    background-color: rgb(255, 255, 255);
+  }
+  #Nameoftheproject2{
+    background-color: rgb(255, 255, 255);
+  }
+
+#TableBorderColor{
+  border-color: rgb(217, 217, 217);
+}

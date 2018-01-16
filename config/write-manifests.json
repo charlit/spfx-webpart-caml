@@ -1,0 +1,6 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://publiccdn.sharepointonline.com/capgeminitls.sharepoint.com/sites/Cockpit-DEV/cdn"
+
+  //ID : 118700570eaf1e8aa0e8cd2ddc8237231d2ae51ea6ca4a3b51f6cfb52a2a68e6a1068813
+}

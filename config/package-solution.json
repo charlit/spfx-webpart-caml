@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "testcaml-client-side-solution",
+    "id": "105394eb-8e56-4e87-a4e8-bb5099154cf4",
+    "version": "1.0.0.21"
+  },
+  "paths": {
+    "zippedPackage": "solution/testcaml.sppkg"
+  }
+}
